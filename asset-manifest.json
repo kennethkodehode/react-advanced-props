@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-advanced-props/static/css/main.073c9b0a.css",
+    "main.js": "/react-advanced-props/static/js/main.6873f4c4.js",
+    "static/js/787.1e993104.chunk.js": "/react-advanced-props/static/js/787.1e993104.chunk.js",
+    "index.html": "/react-advanced-props/index.html",
+    "main.073c9b0a.css.map": "/react-advanced-props/static/css/main.073c9b0a.css.map",
+    "main.6873f4c4.js.map": "/react-advanced-props/static/js/main.6873f4c4.js.map",
+    "787.1e993104.chunk.js.map": "/react-advanced-props/static/js/787.1e993104.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.6873f4c4.js"
+  ]
+}
